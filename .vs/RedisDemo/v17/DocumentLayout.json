@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\controllers\\redisvaluescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:controllers\\redisvaluescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\extensionmethods\\cacheapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:extensionmethods\\cacheapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\redisdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:redisdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\interface\\icacheapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:interface\\icacheapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|c:\\users\\quentin\\source\\repos\\redisdemo\\extensionmethods\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C189647B-302F-49F8-AF53-DA8AC877D749}|RedisDemo.csproj|solutionrelative:extensionmethods\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todoitems.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\models\\Todoitems.cs",
+              "RelativeDocumentMoniker": "models\\Todoitems.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\models\\Todoitems.cs",
+              "RelativeToolTip": "models\\Todoitems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:35:29.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Controllers\\RedisValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RedisValuesController.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Controllers\\RedisValuesController.cs",
+              "RelativeToolTip": "Controllers\\RedisValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:31:49.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheApplication.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\ExtensionMethods\\CacheApplication.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\CacheApplication.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\ExtensionMethods\\CacheApplication.cs",
+              "RelativeToolTip": "ExtensionMethods\\CacheApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:33:49.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICacheApplication.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Interface\\ICacheApplication.cs",
+              "RelativeDocumentMoniker": "Interface\\ICacheApplication.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Interface\\ICacheApplication.cs",
+              "RelativeToolTip": "Interface\\ICacheApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:34:54.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisDemo",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\RedisDemo.csproj",
+              "RelativeDocumentMoniker": "RedisDemo.csproj",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\RedisDemo.csproj",
+              "RelativeToolTip": "RedisDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T14:03:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:49:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T14:22:29.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\ExtensionMethods\\DI.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\DI.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\RedisDemo\\ExtensionMethods\\DI.cs",
+              "RelativeToolTip": "ExtensionMethods\\DI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:10:52.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
